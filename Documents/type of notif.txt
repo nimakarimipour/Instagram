@@ -1,0 +1,8 @@
+follow 0
+request 1
+comment 2
+like_post 3
+Like_cm 4
+tag_post 5
+tag_cm 6
+tag_story 7
